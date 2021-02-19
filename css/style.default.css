@@ -185,7 +185,9 @@ html {
     background: #fff;
     box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1);
   }
-
+.nav-item {
+    text-align: center;
+  }
   .logo {
     width: 80%;
     margin-bottom: 10px;
